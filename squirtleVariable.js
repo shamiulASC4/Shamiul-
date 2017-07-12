@@ -1,0 +1,10 @@
+var squirtleHP = 44;
+var squirtleNum = 7;
+var squirtleType = ("Water");
+var squirtleBestMove = ("Water Pledge")
+var squirtlelastevo = true;
+var pokemonAttack = 48
+var pokemonDefense = 65
+var pokemonSpeed = 43
+var pokemonSpAtk = 50
+var pokemonSpDef = 64
